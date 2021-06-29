@@ -1,0 +1,6 @@
+.vscode/
+env/
+*.code-workspace
+*.pyc
+__pycache__/
+__init__.py

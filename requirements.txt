@@ -1,0 +1,8 @@
+pyOpenSSL==20.0.1
+jira==2.0.0
+oauthlib==1.1.2
+requests==2.25.1
+requests-oauthlib==0.6.2
+requests-toolbelt==0.7.0
+simple-salesforce==1.10.1
+numpy==1.20.3
